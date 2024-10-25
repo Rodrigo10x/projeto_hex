@@ -4,7 +4,7 @@ Este projeto tem como objetivo realizar a manipulação e análise de dados util
 
 - **Manipulação e Análise de Dados com Python**: Utilizamos a biblioteca **Pandas** para carregar, manipular e preparar os dados para análise.
 - **Criação de Visualizações com Matplotlib**: Utilizamos a biblioteca **Matplotlib** para gerar gráficos e visualizações que ajudam a entender melhor os dados.
-- **Construção do Dashboard com Streamlit**: A biblioteca **Streamlit** é utilizada para criar um dashboard interativo que permite aos usuários visualizar e interagir com os dados de maneira intuitiva. (Está parte do projeto ainda nao foi finalizada)
+- **Construção do Dashboard com Streamlit**: A biblioteca **Streamlit** é utilizada para criar um dashboard interativo que permite aos usuários visualizar e interagir com os dados de maneira intuitiva.
 
 ## Como Executar o Projeto
 
@@ -32,6 +32,8 @@ pip install matplotlib
 O Streamlit é uma biblioteca que permite criar aplicativos web interativos de forma rápida e fácil. Para instalá-lo, execute:
 
 pip install streamlit
+
+(Para poder executar o streamlit abra o terminal do vs code, escreva a seguinte linha de codigo: streamlit run parte_4_page.py)
 
 Após a instalação, você pode verificar se as bibliotecas foram instaladas corretamente executando o seguinte comando no Python:
 
